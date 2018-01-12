@@ -12,4 +12,7 @@ The customer will be able to:
   https://youtu.be/ytqrO4TnUuQ
   
   
+  http://github.com - automatic!
+  [GitHub](http://github.com)
+  
 
