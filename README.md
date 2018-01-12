@@ -8,11 +8,11 @@ The customer will be able to:
   1. Buy the product, by entering the amount in which they want.
   1. See the total for the purchase.
   
-  Video to see at work!
-  https://youtu.be/ytqrO4TnUuQ
+  Check out the link below to see in action!
+  [Bamazon Storefront Customer View](https://youtu.be/ytqrO4TnUuQ)
+  
+
   
   
-  http://github.com - automatic!
-  [GitHub](http://github.com)
   
 
